@@ -33,7 +33,7 @@
     "@dashersw/node-discover": "^1.0.4",
     "charm": "1.0.2",
     "colors": "1.4.0",
-    "eventemitter2": "6.0.0",
+    "eventemitter2": "6.1.0",
     "lodash": "^4.17.15",
     "portfinder": "1.0.25",
     "socket.io": "^2.3.0",
